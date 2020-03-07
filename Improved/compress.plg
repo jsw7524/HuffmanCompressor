@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: compress - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\A6Q\LOCALS~1\Temp\RSP165.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/compress.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Programs\New Programs\Compress\Improved\compress.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\A6Q\LOCALS~1\Temp\RSP165.tmp" 
+<h3>Output Window</h3>
+Compiling...
+compress.cpp
+d:\programs\new programs\compress\improved\compress.cpp(177) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+d:\programs\new programs\compress\improved\compress.cpp(197) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+d:\programs\new programs\compress\improved\compress.cpp(197) : warning C4309: 'initializing' : truncation of constant value
+d:\programs\new programs\compress\improved\compress.cpp(231) : warning C4518: 'int ' : storage-class or type specifier(s) unexpected here; ignored
+d:\programs\new programs\compress\improved\compress.cpp(231) : warning C4228: nonstandard extension used : qualifiers after comma in declarator list are ignored
+
+
+
+<h3>Results</h3>
+compress.obj - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>

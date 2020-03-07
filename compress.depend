@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1313037012 source:d:\mydata\programs\compress\compress.cpp
+	<stdio.h>
+	<stdlib.h>
+	"IO.h"
+
+1313035114 d:\mydata\programs\compress\io.h
+
+1313037012 source:d:\mydata\programs\compress\io.cpp
+	<stdio.h>
+	<stdlib.h>
+
